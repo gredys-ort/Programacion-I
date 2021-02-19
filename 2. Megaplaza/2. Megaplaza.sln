@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Megaplaza", "2. Megaplaza\2. Megaplaza.csproj", "{A22BBFEB-CE23-4D6E-96CC-6687F50A761E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22BBFEB-CE23-4D6E-96CC-6687F50A761E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22BBFEB-CE23-4D6E-96CC-6687F50A761E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22BBFEB-CE23-4D6E-96CC-6687F50A761E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22BBFEB-CE23-4D6E-96CC-6687F50A761E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0509BB04-C777-4902-8DF7-743A4FCBE0FC}
+	EndGlobalSection
+EndGlobal

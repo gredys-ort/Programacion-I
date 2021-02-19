@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\bin\Debug\netcoreapp3.1\1. Letra mayuscula.exe
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\bin\Debug\netcoreapp3.1\1. Letra mayuscula.deps.json
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\bin\Debug\netcoreapp3.1\1. Letra mayuscula.runtimeconfig.json
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\bin\Debug\netcoreapp3.1\1. Letra mayuscula.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\bin\Debug\netcoreapp3.1\1. Letra mayuscula.dll
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\bin\Debug\netcoreapp3.1\1. Letra mayuscula.pdb
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\obj\Debug\netcoreapp3.1\1. Letra mayuscula.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\obj\Debug\netcoreapp3.1\1. Letra mayuscula.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\obj\Debug\netcoreapp3.1\1. Letra mayuscula.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\obj\Debug\netcoreapp3.1\1. Letra mayuscula.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\obj\Debug\netcoreapp3.1\1. Letra mayuscula.dll
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\obj\Debug\netcoreapp3.1\1. Letra mayuscula.pdb
+C:\Users\Usuario\Desktop\1. Letra mayuscula\1. Letra mayuscula\obj\Debug\netcoreapp3.1\1. Letra mayuscula.genruntimeconfig.cache

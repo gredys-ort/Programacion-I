@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\obj\Debug\netcoreapp3.1\5. Dia laboral.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\obj\Debug\netcoreapp3.1\5. Dia laboral.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\obj\Debug\netcoreapp3.1\5. Dia laboral.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\obj\Debug\netcoreapp3.1\5. Dia laboral.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\bin\Debug\netcoreapp3.1\5. Dia laboral.exe
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\bin\Debug\netcoreapp3.1\5. Dia laboral.deps.json
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\bin\Debug\netcoreapp3.1\5. Dia laboral.runtimeconfig.json
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\bin\Debug\netcoreapp3.1\5. Dia laboral.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\bin\Debug\netcoreapp3.1\5. Dia laboral.dll
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\bin\Debug\netcoreapp3.1\5. Dia laboral.pdb
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\obj\Debug\netcoreapp3.1\5. Dia laboral.dll
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\obj\Debug\netcoreapp3.1\5. Dia laboral.pdb
+C:\Users\Usuario\Desktop\5. Dia laboral\5. Dia laboral\obj\Debug\netcoreapp3.1\5. Dia laboral.genruntimeconfig.cache

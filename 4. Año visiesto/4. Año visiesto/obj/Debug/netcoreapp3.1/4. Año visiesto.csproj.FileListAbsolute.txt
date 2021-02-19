@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\bin\Debug\netcoreapp3.1\4. Año visiesto.exe
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\bin\Debug\netcoreapp3.1\4. Año visiesto.deps.json
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\bin\Debug\netcoreapp3.1\4. Año visiesto.runtimeconfig.json
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\bin\Debug\netcoreapp3.1\4. Año visiesto.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\bin\Debug\netcoreapp3.1\4. Año visiesto.dll
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\bin\Debug\netcoreapp3.1\4. Año visiesto.pdb
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\obj\Debug\netcoreapp3.1\4. Año visiesto.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\obj\Debug\netcoreapp3.1\4. Año visiesto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\obj\Debug\netcoreapp3.1\4. Año visiesto.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\obj\Debug\netcoreapp3.1\4. Año visiesto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\obj\Debug\netcoreapp3.1\4. Año visiesto.dll
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\obj\Debug\netcoreapp3.1\4. Año visiesto.pdb
+C:\Users\Usuario\Desktop\4. Año visiesto\4. Año visiesto\obj\Debug\netcoreapp3.1\4. Año visiesto.genruntimeconfig.cache
