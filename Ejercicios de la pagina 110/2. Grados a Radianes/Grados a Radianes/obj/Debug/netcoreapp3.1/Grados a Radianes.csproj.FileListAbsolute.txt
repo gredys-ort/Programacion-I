@@ -1,0 +1,26 @@
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.exe
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.deps.json
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.runtimeconfig.json
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.dll
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.pdb
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.dll
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.pdb
+C:\Users\Usuario\Desktop\Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.exe
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.deps.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.runtimeconfig.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\bin\Debug\netcoreapp3.1\Grados a Radianes.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\2. Grados a Radianes\Grados a Radianes\obj\Debug\netcoreapp3.1\Grados a Radianes.genruntimeconfig.cache

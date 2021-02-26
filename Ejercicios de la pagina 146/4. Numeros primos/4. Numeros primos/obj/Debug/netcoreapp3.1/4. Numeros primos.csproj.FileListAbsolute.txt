@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\bin\Debug\netcoreapp3.1\4. Numeros primos.exe
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\bin\Debug\netcoreapp3.1\4. Numeros primos.deps.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\bin\Debug\netcoreapp3.1\4. Numeros primos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\bin\Debug\netcoreapp3.1\4. Numeros primos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\bin\Debug\netcoreapp3.1\4. Numeros primos.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\bin\Debug\netcoreapp3.1\4. Numeros primos.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\obj\Debug\netcoreapp3.1\4. Numeros primos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\obj\Debug\netcoreapp3.1\4. Numeros primos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\obj\Debug\netcoreapp3.1\4. Numeros primos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\obj\Debug\netcoreapp3.1\4. Numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\obj\Debug\netcoreapp3.1\4. Numeros primos.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\obj\Debug\netcoreapp3.1\4. Numeros primos.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\4. Numeros primos\4. Numeros primos\obj\Debug\netcoreapp3.1\4. Numeros primos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\bin\Debug\netcoreapp3.1\5. Perímetro y área.exe
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\bin\Debug\netcoreapp3.1\5. Perímetro y área.deps.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\bin\Debug\netcoreapp3.1\5. Perímetro y área.runtimeconfig.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\bin\Debug\netcoreapp3.1\5. Perímetro y área.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\bin\Debug\netcoreapp3.1\5. Perímetro y área.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\bin\Debug\netcoreapp3.1\5. Perímetro y área.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\obj\Debug\netcoreapp3.1\5. Perímetro y área.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\obj\Debug\netcoreapp3.1\5. Perímetro y área.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\obj\Debug\netcoreapp3.1\5. Perímetro y área.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\obj\Debug\netcoreapp3.1\5. Perímetro y área.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\obj\Debug\netcoreapp3.1\5. Perímetro y área.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\obj\Debug\netcoreapp3.1\5. Perímetro y área.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\5. Perímetro y área\5. Perímetro y área\obj\Debug\netcoreapp3.1\5. Perímetro y área.genruntimeconfig.cache

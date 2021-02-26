@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\bin\Debug\netcoreapp3.1\Factorial de un numero.exe
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\bin\Debug\netcoreapp3.1\Factorial de un numero.deps.json
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\bin\Debug\netcoreapp3.1\Factorial de un numero.runtimeconfig.json
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\bin\Debug\netcoreapp3.1\Factorial de un numero.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\bin\Debug\netcoreapp3.1\Factorial de un numero.dll
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\bin\Debug\netcoreapp3.1\Factorial de un numero.pdb
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\obj\Debug\netcoreapp3.1\Factorial de un numero.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\obj\Debug\netcoreapp3.1\Factorial de un numero.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\obj\Debug\netcoreapp3.1\Factorial de un numero.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\obj\Debug\netcoreapp3.1\Factorial de un numero.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\obj\Debug\netcoreapp3.1\Factorial de un numero.dll
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\obj\Debug\netcoreapp3.1\Factorial de un numero.pdb
+C:\Users\Usuario\Desktop\Ejercicios factorial y serie\Factorial de un numero\Factorial de un numero\obj\Debug\netcoreapp3.1\Factorial de un numero.genruntimeconfig.cache

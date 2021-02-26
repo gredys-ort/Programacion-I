@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\bin\Debug\netcoreapp3.1\4. Dias de la semana.exe
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\bin\Debug\netcoreapp3.1\4. Dias de la semana.deps.json
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\bin\Debug\netcoreapp3.1\4. Dias de la semana.runtimeconfig.json
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\bin\Debug\netcoreapp3.1\4. Dias de la semana.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\bin\Debug\netcoreapp3.1\4. Dias de la semana.dll
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\bin\Debug\netcoreapp3.1\4. Dias de la semana.pdb
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\obj\Debug\netcoreapp3.1\4. Dias de la semana.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\obj\Debug\netcoreapp3.1\4. Dias de la semana.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\obj\Debug\netcoreapp3.1\4. Dias de la semana.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\obj\Debug\netcoreapp3.1\4. Dias de la semana.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\obj\Debug\netcoreapp3.1\4. Dias de la semana.dll
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\obj\Debug\netcoreapp3.1\4. Dias de la semana.pdb
+C:\Users\Usuario\Desktop\4. Dias de la semana\4. Dias de la semana\obj\Debug\netcoreapp3.1\4. Dias de la semana.genruntimeconfig.cache

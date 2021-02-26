@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\bin\Debug\netcoreapp3.1\2. Numero elevado.exe
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\bin\Debug\netcoreapp3.1\2. Numero elevado.deps.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\bin\Debug\netcoreapp3.1\2. Numero elevado.runtimeconfig.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\bin\Debug\netcoreapp3.1\2. Numero elevado.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\bin\Debug\netcoreapp3.1\2. Numero elevado.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\bin\Debug\netcoreapp3.1\2. Numero elevado.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\obj\Debug\netcoreapp3.1\2. Numero elevado.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\obj\Debug\netcoreapp3.1\2. Numero elevado.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\obj\Debug\netcoreapp3.1\2. Numero elevado.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\obj\Debug\netcoreapp3.1\2. Numero elevado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\obj\Debug\netcoreapp3.1\2. Numero elevado.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\obj\Debug\netcoreapp3.1\2. Numero elevado.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\2. Numero elevado\2. Numero elevado\obj\Debug\netcoreapp3.1\2. Numero elevado.genruntimeconfig.cache

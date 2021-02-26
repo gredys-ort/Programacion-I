@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\bin\Debug\netcoreapp3.1\5. Edad de un grupo.exe
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\bin\Debug\netcoreapp3.1\5. Edad de un grupo.deps.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\bin\Debug\netcoreapp3.1\5. Edad de un grupo.runtimeconfig.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\bin\Debug\netcoreapp3.1\5. Edad de un grupo.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\bin\Debug\netcoreapp3.1\5. Edad de un grupo.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\bin\Debug\netcoreapp3.1\5. Edad de un grupo.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\obj\Debug\netcoreapp3.1\5. Edad de un grupo.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\obj\Debug\netcoreapp3.1\5. Edad de un grupo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\obj\Debug\netcoreapp3.1\5. Edad de un grupo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\obj\Debug\netcoreapp3.1\5. Edad de un grupo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\obj\Debug\netcoreapp3.1\5. Edad de un grupo.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\obj\Debug\netcoreapp3.1\5. Edad de un grupo.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 146\5. Edad de un grupo\5. Edad de un grupo\obj\Debug\netcoreapp3.1\5. Edad de un grupo.genruntimeconfig.cache

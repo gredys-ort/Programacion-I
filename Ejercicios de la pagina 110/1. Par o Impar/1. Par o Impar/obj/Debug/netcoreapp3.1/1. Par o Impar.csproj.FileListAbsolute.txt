@@ -1,0 +1,26 @@
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.exe
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.deps.json
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.runtimeconfig.json
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.dll
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.pdb
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.dll
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.pdb
+C:\Users\Usuario\Desktop\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.exe
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.deps.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.runtimeconfig.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\bin\Debug\netcoreapp3.1\1. Par o Impar.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.dll
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.pdb
+C:\Users\Usuario\Desktop\Ejercicios de la pagina 110\1. Par o Impar\1. Par o Impar\obj\Debug\netcoreapp3.1\1. Par o Impar.genruntimeconfig.cache

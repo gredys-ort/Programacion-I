@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\bin\Debug\netcoreapp3.1\1. Tabla de multiplicar.exe
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\bin\Debug\netcoreapp3.1\1. Tabla de multiplicar.deps.json
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\bin\Debug\netcoreapp3.1\1. Tabla de multiplicar.runtimeconfig.json
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\bin\Debug\netcoreapp3.1\1. Tabla de multiplicar.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\bin\Debug\netcoreapp3.1\1. Tabla de multiplicar.dll
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\bin\Debug\netcoreapp3.1\1. Tabla de multiplicar.pdb
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\obj\Debug\netcoreapp3.1\1. Tabla de multiplicar.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\obj\Debug\netcoreapp3.1\1. Tabla de multiplicar.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\obj\Debug\netcoreapp3.1\1. Tabla de multiplicar.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\obj\Debug\netcoreapp3.1\1. Tabla de multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\obj\Debug\netcoreapp3.1\1. Tabla de multiplicar.dll
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\obj\Debug\netcoreapp3.1\1. Tabla de multiplicar.pdb
+C:\Users\Usuario\Desktop\1. Tabla de multiplicar\1. Tabla de multiplicar\obj\Debug\netcoreapp3.1\1. Tabla de multiplicar.genruntimeconfig.cache
