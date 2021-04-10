@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Tarea Arreglos\bin\Debug\Tarea Arreglos.exe.config
+C:\Users\Usuario\Desktop\Tarea Arreglos\bin\Debug\Tarea Arreglos.exe
+C:\Users\Usuario\Desktop\Tarea Arreglos\bin\Debug\Tarea Arreglos.pdb
+C:\Users\Usuario\Desktop\Tarea Arreglos\obj\Debug\Tarea Arreglos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tarea Arreglos\obj\Debug\Tarea_Arreglos.Form1.resources
+C:\Users\Usuario\Desktop\Tarea Arreglos\obj\Debug\Tarea_Arreglos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tarea Arreglos\obj\Debug\Tarea Arreglos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tarea Arreglos\obj\Debug\Tarea Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tarea Arreglos\obj\Debug\Tarea Arreglos.exe
+C:\Users\Usuario\Desktop\Tarea Arreglos\obj\Debug\Tarea Arreglos.pdb
