@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Clase de Carro\\Clase de Carro.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\Programacion-I\\Clase de Carro\\Clase de Carro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Clase de Carro\\Clase de Carro.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\Programacion-I\\Clase de Carro\\Clase de Carro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Clase de Carro\\Clase de Carro.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Programacion-I\\Clase de Carro\\Clase de Carro.csproj",
         "projectName": "Clase de Carro",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Clase de Carro\\Clase de Carro.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Programacion-I\\Clase de Carro\\Clase de Carro.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Clase de Carro\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Programacion-I\\Clase de Carro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
