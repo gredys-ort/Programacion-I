@@ -1,0 +1,45 @@
+﻿<Window x:Class="PrimerProyecto.Ventana2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrimerProyecto"
+        mc:Ignorable="d"
+        Title="Farmacia Fracineth" Height="629.598" Width="1029.821">
+    <Grid>
+        <Grid x:Name="TexboxBusquedad" Margin="-7,0,0.2,-88">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="224*"/>
+                <RowDefinition Height="267*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="317*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="474*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="TexboxProducto" HorizontalAlignment="Left" Height="23" Margin="153,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" Background="#FFD8D8D8" FontFamily="SimSun-ExtB" FontWeight="Bold" FontSize="14" Grid.ColumnSpan="3"/>
+            <Label x:Name="LabelNombreDelProducto" Content="Nombre de Producto" HorizontalAlignment="Left" Margin="10,76,0,0" VerticalAlignment="Top" Width="129" Height="24" Background="#FF99CDE6" FontWeight="Bold" FontFamily="SimSun-ExtB"/>
+            <Label x:Name="LabelPrecio" Content="Precio" HorizontalAlignment="Left" Margin="10,105,0,0" VerticalAlignment="Top" Width="129" Height="24" Background="#FF99CDE6" FontWeight="Bold" FontFamily="SimSun-ExtB"/>
+            <Label x:Name="LabelCantidad" Content="Cantidad" HorizontalAlignment="Left" Margin="10,137,0,0" VerticalAlignment="Top" Width="129" Height="24" Background="#FF99CDE6" FontWeight="Bold" FontFamily="SimSun-ExtB"/>
+            <TextBox x:Name="TexboxPrecio" HorizontalAlignment="Left" Height="23" Margin="153,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" Background="#FFD8D8D8" FontFamily="SimSun-ExtB" FontWeight="Bold" FontSize="14" Grid.ColumnSpan="3"/>
+            <TextBox x:Name="TexboxCantidad" HorizontalAlignment="Left" Height="23" Margin="153,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" Background="#FFD8D8D8" FontFamily="SimSun-ExtB" FontWeight="Bold" FontSize="14" Grid.ColumnSpan="3"/>
+            <Button x:Name="ButtonAgregar" Content="Agregar Producto" HorizontalAlignment="Left" Margin="36,266,0,0" VerticalAlignment="Top" Width="180" Height="38" Background="#FFFDFDFD" FontWeight="Bold" FontFamily="SimSun-ExtB" FontSize="14" Click="ButtonAgregar_Click"/>
+            <Label x:Name="LabelIdProducto" Content="Id de Venta" HorizontalAlignment="Left" Margin="10,47,0,0" VerticalAlignment="Top" Width="129" Height="24" Background="#FF99CDE6" FontWeight="Bold" FontFamily="SimSun-ExtB"/>
+            <TextBox x:Name="TexboxIdProducto" HorizontalAlignment="Left" Height="23" Margin="153,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" Background="#FFD8D8D8" FontFamily="SimSun-ExtB" FontWeight="Bold" FontSize="14" Grid.ColumnSpan="3"/>
+            <DataGrid x:Name="DGconsultas" Margin="300,227,35.6,96" Grid.ColumnSpan="3" Grid.RowSpan="2"/>
+            <Label x:Name="LabelFecha" Content="Fecha AA/MM/DD" HorizontalAlignment="Left" Margin="10,166,0,0" VerticalAlignment="Top" Width="129" Height="24" Background="#FF99CDE6" FontWeight="Bold" FontFamily="SimSun-ExtB" FontSize="14"/>
+            <TextBox x:Name="TexboxFecha" HorizontalAlignment="Left" Height="23" Margin="153,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" Background="#FFD8D8D8" FontFamily="SimSun-ExtB" FontWeight="Bold" FontSize="14" Grid.ColumnSpan="3"/>
+            <Button x:Name="ButtonUpdate" Content="Update" HorizontalAlignment="Left" Height="38" Margin="36,0.4,0,0" VerticalAlignment="Top" Width="180" Click="ButtonUpdate_Click" FontFamily="SimSun-ExtB" FontSize="14" FontWeight="Bold" BorderBrush="#FF969494" Background="White" Grid.Row="1"/>
+            <Button x:Name="ButtonEliminar" Content="Eliminar" HorizontalAlignment="Left" Height="38" Margin="36,53.4,0,0" VerticalAlignment="Top" Width="180" Click="ButtonEliminar_Click" FontFamily="SimSun-ExtB" FontSize="14" FontWeight="Bold" BorderBrush="#FF969494" Background="White" Grid.Row="1"/>
+            <Button x:Name="ButtonBuscarTodo" Content="Buscar Todo" HorizontalAlignment="Left" Height="38" Margin="36,173.4,0,0" VerticalAlignment="Top" Width="180" Click="ButtonBuscarTodo_Click" FontFamily="SimSun-ExtB" FontSize="14" FontWeight="Bold" BorderBrush="#FF969494" Background="White" Grid.Row="1"/>
+            <Button x:Name="Limpiar" Content="Limpiar " HorizontalAlignment="Left" Margin="36,115.4,0,0" VerticalAlignment="Top" Width="180" Height="38" Click="Limpiar_Click" FontFamily="SimSun-ExtB" FontSize="14" FontWeight="Bold" BorderBrush="#FF969494" Background="White" Grid.Row="1"/>
+            <Button x:Name="ButtonExportarEx" Content="Descargar Datos" HorizontalAlignment="Left" Margin="296.6,192,0,0" VerticalAlignment="Top" Width="140" Height="30" Click="ButtonExportarEx_Click" FontWeight="Bold" Background="#FF19EA5B" FontFamily="SimSun-ExtB" FontSize="14" Grid.Column="2"/>
+            <Button x:Name="ButtonBuscar" Content="Buscar " HorizontalAlignment="Left" Margin="191.6,91,0,0" VerticalAlignment="Top" Width="80" Click="ButtonBuscar_Click" FontFamily="SimSun-ExtB" FontWeight="Bold" Background="White" FontSize="14" Grid.Column="2" Height="20"/>
+            <Label Content="Buscar Por Fecha AA/MM/DD" HorizontalAlignment="Left" Margin="126.6,30,0,0" VerticalAlignment="Top" FontFamily="SimSun-ExtB" FontWeight="Bold" FontSize="14" Grid.Column="2" Height="24" Width="190"/>
+            <TextBox x:Name="TexboxBusqueda" HorizontalAlignment="Left" Height="23" Margin="126.6,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" FontFamily="SimSun-ExtB" FontWeight="Bold" FontSize="14" Grid.Column="2"/>
+            <Button x:Name="ButtonRegresarDB" Content="Conectar otra DB" HorizontalAlignment="Left" Height="36" Margin="95,0,0,0" VerticalAlignment="Top" Width="180" Click="ButtonRegresarDB_Click" Background="#FF0FB039" FontFamily="SimSun-ExtB" FontWeight="Bold"/>
+
+        </Grid>
+
+    </Grid>
+</Window>
