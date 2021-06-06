@@ -1,0 +1,167 @@
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CoreCompileInputs.cache
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfoInputs.cache
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfo.cs
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.exe
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.deps.json
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.json
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.dev.json
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CopyComplete
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.genruntimeconfig.cache
+C:\Users\ruldin\Source\Repos\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csprojAssemblyReference.cache
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.exe
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.deps.json
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.json
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.dev.json
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csprojAssemblyReference.cache
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfoInputs.cache
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfo.cs
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CoreCompileInputs.cache
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CopyComplete
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\U\2021\p1\Clase 11 Telegram\Progra1Bot\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.genruntimeconfig.cache
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.exe
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.deps.json
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.json
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfo.cs
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CopyComplete
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.genruntimeconfig.cache
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.exe
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.deps.json
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.json
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.dev.json
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csprojAssemblyReference.cache
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfoInputs.cache
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfo.cs
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CoreCompileInputs.cache
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CopyComplete
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\Wclinares\Desktop\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.genruntimeconfig.cache
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.exe
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.deps.json
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.json
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.dev.json
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csprojAssemblyReference.cache
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfoInputs.cache
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfo.cs
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CoreCompileInputs.cache
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CopyComplete
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\Wclinares\Downloads\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.genruntimeconfig.cache
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.exe
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.deps.json
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.json
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.dev.json
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csprojAssemblyReference.cache
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfoInputs.cache
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfo.cs
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CopyComplete
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.genruntimeconfig.cache
+C:\Users\Salva\Documents\Desktop\Progra1Bot (2)\Progra1Bot (2)\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.exe
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.deps.json
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.json
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.dev.json
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfo.cs
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CopyComplete
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\PC\Downloads\FinalProgra\Progra1Bot\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.exe
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.deps.json
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.json
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.dll
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.pdb
+C:\Users\Usuario\Desktop\Progra1Bot Final\Progra1Bot\obj\Debug\netcoreapp3.1\Progra1Bot.genruntimeconfig.cache
